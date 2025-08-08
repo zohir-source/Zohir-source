@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Purnama Zohir
 
-<img src="gambar1.jpeg" alt="gambar">
+<img src="gambar1.jpeg" alt="gambar" style="width:800px"/>
 
 I'm an Information Systems student at **Universitas Bina Sarana Informatika (UBSI)**, passionate about building useful and impactful software.
 
