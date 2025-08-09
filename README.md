@@ -20,9 +20,9 @@ I'm an Information Systems student at **Universitas Bina Sarana Informatika (UBS
    - [Design website 2](https://www.figma.com/design/MYtElmk5BUx7v5RIx2xzSs/Untitled?node-id=0-1&t=OBbtSDENczPJROSF-1)
 
 Software & Tools :
-Git, GitHub
-Microsoft Office (Word, Excel, PowerPoint)
-Visual Studio Code, phpMyAdmin
+- Git, GitHub
+- Microsoft Office (Word, Excel, PowerPoint)
+- Visual Studio Code, phpMyAdmin
 
 
 🚧 Projects in progress:
