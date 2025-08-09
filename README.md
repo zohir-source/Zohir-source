@@ -11,11 +11,11 @@ I'm an Information Systems student at **Universitas Bina Sarana Informatika (UBS
 
 💻 Tech I'm familiar with:
 
-Pemrograman: Python, PHP, HTML, CSS, JavaScript
-Database: MySQL, Desain Database
-Framework: Laravel
-Analisis Sistem: ERD, UML, Use Case Diagram
-Desain UI: [Figma](https://www.figma.com/design/acgrOIKB8u9usalzBqKA7P/MeowCare?node-id=1-2&t=1QhqXXMtZsqLHBig-1), Canva, Draw.io
+- Pemrograman: Python, PHP, HTML, CSS, JavaScript
+- Database: MySQL, Desain Database
+- Framework: Laravel
+- Analisis Sistem: ERD, UML, Use Case Diagram
+- Desain UI: [Design website 1](https://www.figma.com/design/acgrOIKB8u9usalzBqKA7P/MeowCare?node-id=1-2&t=1QhqXXMtZsqLHBig-1)
 
 Software & Tools :
 Git, GitHub
