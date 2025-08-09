@@ -15,7 +15,9 @@ I'm an Information Systems student at **Universitas Bina Sarana Informatika (UBS
 - Database: MySQL, Desain Database
 - Framework: Laravel
 - Analisis Sistem: ERD, UML, Use Case Diagram [analisis sistem](https://drive.google.com/drive/folders/1s0ik6gZNWavLnNoxVQ3INAXdSgYk4CB7?usp=sharing)
-- Desain UI: [Design website 1](https://www.figma.com/design/acgrOIKB8u9usalzBqKA7P/MeowCare?node-id=1-2&t=1QhqXXMtZsqLHBig-1)
+- Desain UI:
+   - [Design website 1](https://www.figma.com/design/acgrOIKB8u9usalzBqKA7P/MeowCare?node-id=1-2&t=1QhqXXMtZsqLHBig-1)
+   - [Design website 2](https://www.figma.com/design/MYtElmk5BUx7v5RIx2xzSs/Untitled?node-id=0-1&t=OBbtSDENczPJROSF-1)
 
 Software & Tools :
 Git, GitHub
