@@ -34,7 +34,7 @@ Software & Tools :
 
 📫 Let's connect:
 
-- [LinkedIn](www.linkedin.com/in/purnama-zohir-094b12292)
+- LinkedIn: www.linkedin.com/in/purnama-zohir-094b12292
 - Email: zedzohir23@gmail.com
 
 ---
